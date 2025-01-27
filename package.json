@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@opentelemetry/context-zone": "^1.26.0",
     "@opentelemetry/core": "^1.26.0",
     "@opentelemetry/exporter-metrics-otlp-http": "^0.53.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.53.0",
